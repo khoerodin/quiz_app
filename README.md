@@ -1,3 +1,4 @@
 # quiz_app
 
-A new Flutter project.
+A simple Flutter quiz app
+![Quiz App Screenshot](screenshot1.png)
